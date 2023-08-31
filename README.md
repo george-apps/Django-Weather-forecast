@@ -1,20 +1,20 @@
 # Django-Weather-forecast
 
-##A small web app that shows forecast in 3 hour intervals using Openweathermap free tier api and the django framework.
+## A small web app that shows forecast in 3 hour intervals using Openweathermap free tier api and the django framework.
 
 This is an example project that was build to learn how to work with apis. The functionalities of the project are:
 
 * Search a city.
 * Display to the user information about the weather in 3 hour intervals.
 
-##Requirements
+## Requirements
 1. Python
 2. Django
 3. Requests
 4. Python-dotenv
 5. openweathermap API key
 
-##Install and run the app
+## Install and run the app
 1. Clone this project.
 2. Run pip install django
 3. Run pip install requests
