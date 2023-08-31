@@ -19,7 +19,7 @@ This is an example project that was build to learn how to work with apis. The fu
 2. Run pip install django
 3. Run pip install requests
 4. Run pip install Python-dotenv
-5. Create a .env file and write: api_key = INSERT YOUR API KEY HERE
+5. Create a .env file in the weather_app directory and write: api_key = INSERT YOUR API KEY HERE
 6. cd into the weather_proj folder.
 7. Execute command: python manage.py runserver
 
